@@ -1,0 +1,15 @@
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.exe
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.deps.json
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.runtimeconfig.json
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.dll
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\bin\Debug\net6.0\ref\Ex1_HelloWorld.dll
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.pdb
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.csproj.AssemblyReference.cache
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.AssemblyInfoInputs.cache
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.AssemblyInfo.cs
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.dll
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\ref\Ex1_HelloWorld.dll
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.pdb
+C:\Вне системы\GeekBrains\C#\Examples\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.genruntimeconfig.cache
